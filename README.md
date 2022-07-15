@@ -1,6 +1,6 @@
 # Express TS Template
 
-Express + TypeScript + ESLint + Prettier + Morgan + Winston
+Express + TypeScript + ESLint + Prettier
 
 ## Usage
 
